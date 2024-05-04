@@ -11,6 +11,14 @@ Methods explored are:
 
 These methods are evaluated on two different case studies. 
 
+## 2024.05.04 update
+
+Now you can directly pull Docker images for environment configuration:
+
+```Shell
+docker pull hilinxinhui/uq_ml_tutorial:v1
+```
+
 ## Case Studies:
 UQ methods are applied to two case studies
 - Case study 1: Battery early life prediction
